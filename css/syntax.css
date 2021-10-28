@@ -1,23 +1,11 @@
-#main_content div {
-    background-color: #ccc;
-    margin: 0 0 20px 0;
-}
 
 .static_width {
     width: 300px;
-    height: 100px;
-    border-radius: 30px;
+    height: 300px;
+    background-color: #606060;
+    background-image: url(https://cdn3.iconfinder.com/data/icons/geometric-shapes-blue-line/64/142_geometry-3d-shape-prism-figure-128.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
 }
 
-.percentage_width {
-    width: 70%;
-    height: 50px;
-    border-radius: 5px 10px 20px 40px;
-}
-
-.inline_block {
-    width: 100px;
-    height: 100px;
-    display: inline-block;
-    border-radius: 50px;
-}
