@@ -2,10 +2,8 @@
 .static_width {
     width: 300px;
     height: 300px;
+    background: url(https://cdn3.iconfinder.com/data/icons/geometric-shapes-blue-line/64/142_geometry-3d-shape-prism-figure-128.png) no-repeat top center;
     background-color: #606060;
-    background-image: url(https://cdn3.iconfinder.com/data/icons/geometric-shapes-blue-line/64/142_geometry-3d-shape-prism-figure-128.png);
-    background-repeat: no-repeat;
-    background-position: center;
     background-size: 200px;
 }
 
