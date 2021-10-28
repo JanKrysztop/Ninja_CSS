@@ -2,8 +2,5 @@
     background-color: #606060;
     width: 100%;
     height: 300px;
-    background-image: url(https://cdn3.iconfinder.com/data/icons/geometric-shapes-blue-line/64/142_geometry-3d-shape-cone-figure-128.png), url(https://img.freepik.com/free-vector/yellow-background-with-halftone-lines-design_1017-30148.jpg?size=626&ext=jpg);
-    background-repeat: no-repeat;
-    background-position: center, top left;
-    background-size: 300px, 100%;
+    background-color: rgb(250, 150, 60);
 }
