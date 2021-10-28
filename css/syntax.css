@@ -6,14 +6,18 @@
 .static_width {
     width: 300px;
     height: 100px;
+    border-radius: 30px;
 }
 
 .percentage_width {
     width: 70%;
     height: 50px;
+    border-radius: 5px 10px 20px 40px;
 }
 
 .inline_block {
-    width: 40%;
+    width: 100px;
+    height: 100px;
     display: inline-block;
+    border-radius: 50px;
 }
